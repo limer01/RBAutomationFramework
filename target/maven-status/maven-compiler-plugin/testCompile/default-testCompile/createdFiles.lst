@@ -1,0 +1,5 @@
+pages\BasePage.class
+Utilities\ConfigReader.class
+tests\BaseTest.class
+pages\SearchResultsPage.class
+tests\SearchResultsTest.class

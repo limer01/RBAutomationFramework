@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 28.127 s <<< FAILURE! - in TestSuite
+tests.SearchResultsTest.verifyFirstResultHeaderContains  Time elapsed: 3.461 s  <<< FAILURE!
+java.lang.AssertionError: First result does not contain 'Ford F-150' expected [true] but found [false]
+	at tests.SearchResultsTest.verifyFirstResultHeaderContains(SearchResultsTest.java:17)
+
